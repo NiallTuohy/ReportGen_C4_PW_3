@@ -27,7 +27,8 @@ If not, see https://www.gnu.org/licenses/.
 
 A full copy of this license will be provided in the application folders saved as AGPLv3 - GNU AFFERO GENERAL PUBLIC LICENSE _ iText PDF.pdf
 
-As a pre-caution I am also making this program open source. 
+As a pre-caution I am also making this program open source. The code is available here:
+https://github.com/NiallTuohy/ReportGen_C4_PW_3.git
 
 Note that the java.java class has been written from scratch and only calls the unmodified itextPDF libraries. 
 This program was written in December 2024. If you have an queries/issues or require additional programs you can reach out to me at:
